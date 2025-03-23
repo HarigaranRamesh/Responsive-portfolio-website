@@ -6,6 +6,7 @@ Website contains:
 - Home
 - About
 - Skills
+- projects
 - Qualification
 - Services
 - Contact
